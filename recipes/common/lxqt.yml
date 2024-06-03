@@ -1,1 +1,33 @@
-
+install:
+      - breeze-cursor-theme
+      - breeze-gtk
+      - breeze-icon-theme
+      - firewall-config
+      - initial-setup-gui
+      - lxqt-about
+      - lxqt-archiver
+      - lxqt-config
+      - lxqt-globalkeys
+      - lxqt-notificationd
+      - lxqt-openssh-askpass
+      - lxqt-panel
+      - lxqt-policykit
+      - lxqt-powermanagement
+      - lxqt-qtplugin
+      - lxqt-runner
+      - lxqt-session
+      - lxqt-themes
+      - lxqt-themes-fedora
+      - network-manager-applet
+      - nm-connection-editor
+      - notification-daemon
+      - obconf
+      - openbox
+      - pcmanfm-qt
+      - perl-File-MimeInfo
+      - qterminal
+      - upower
+      - xdg-user-dirs
+      - i3
+      - sddm
+      - sddm-themes
