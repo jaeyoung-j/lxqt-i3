@@ -32,3 +32,5 @@ install:
       - i3
       - sddm
       - sddm-themes
+      - picom
+      - nitrogen
