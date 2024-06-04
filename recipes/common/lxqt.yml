@@ -35,3 +35,7 @@ install:
       - sddm-themes
       - picom
       - nitrogen
+      - plasma-breeze-qt5
+      - plasma-breeze-qt6
+remove:
+      - chromium
