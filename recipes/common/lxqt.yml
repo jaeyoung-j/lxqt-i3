@@ -1,5 +1,6 @@
 type: rpm-ostree
 install:
+      - plasma-breeze
       - breeze-cursor-theme
       - breeze-gtk
       - breeze-icon-theme
