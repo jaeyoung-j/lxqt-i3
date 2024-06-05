@@ -37,6 +37,6 @@ install:
       - nitrogen
       - plasma-breeze-qt5
       - plasma-breeze-qt6
+      - ibus-mozc
 remove:
       - chromium
-      - thunar
