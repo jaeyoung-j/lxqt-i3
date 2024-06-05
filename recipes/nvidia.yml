@@ -17,10 +17,7 @@ modules:
                   # in /usr/etc/ in the image. read more in files module reference.
 
   - from-file: common/lxqt.yml
-  - type: rpm-ostree
-    repos:    
-    install:
-    remove:
+  - from-file: common/files.yml
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
