@@ -37,8 +37,6 @@ install:
       - nitrogen
       - plasma-breeze-qt5
       - plasma-breeze-qt6
-      - ibus-hangul
-      - ibus-panel
 remove:
       - chromium
       - thunar
