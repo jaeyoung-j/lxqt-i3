@@ -30,7 +30,7 @@ install:
       - qterminal
       - upower
       - xdg-user-dirs
-      - i3
+      - i3-gaps
       - sddm
       - sddm-themes
       - picom
