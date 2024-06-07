@@ -39,6 +39,7 @@ install:
       - plasma-breeze-qt6
       - ibus-mozc
       - xdg-desktop-portal-lxqt
+      - gvfs-smb
 remove:
       - chromium
 
