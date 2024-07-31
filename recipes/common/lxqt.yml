@@ -40,7 +40,3 @@ install:
       - ibus-mozc
       - xdg-desktop-portal-lxqt
       - gvfs-smb
-remove:
-      - chromium
-
-
