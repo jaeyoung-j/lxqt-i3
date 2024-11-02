@@ -38,5 +38,5 @@ install:
       - plasma-breeze-qt5
       - plasma-breeze-qt6
       - ibus-mozc
-      - xdg-desktop-portal-lxqt
+      - xdg-desktop-portal-kde
       - gvfs-smb
