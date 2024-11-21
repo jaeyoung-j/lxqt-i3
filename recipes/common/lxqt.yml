@@ -40,3 +40,4 @@ install:
       - ibus-mozc
       - xdg-desktop-portal-kde
       - gvfs-smb
+      - xorg-x11-server-Xorg
