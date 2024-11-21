@@ -41,3 +41,4 @@ install:
       - xdg-desktop-portal-kde
       - gvfs-smb
       - xorg-x11-server-Xorg
+      - fuse
