@@ -202,5 +202,4 @@ client.focused_inactive #efefef #efefef #ffffff #ff00ff   #efefef
 client.unfocused        #efefef #efefef #888888 #ff00ff   #efefef
 client.urgent           #2f343a #efefef #ffffff #ff00ff   #2f343a
 client.placeholder      #000000 #efefef #ffffff #ff00ff   #0c0c0c
-
 client.background       #efefef
