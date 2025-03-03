@@ -42,3 +42,4 @@ install:
       - gvfs-smb
       - xorg-x11-server-Xorg
       - fuse
+      - lximage-qt
